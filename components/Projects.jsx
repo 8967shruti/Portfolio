@@ -9,7 +9,7 @@ export default function Projects() {
       description:
         "A smart investment portfolio manager focused on making stock investing accessible to beginners in the Indian market.",
       technologies: ["Next.js", "Tailwind CSS", "Flask", "TensorFlow", "LSTM Model", "yfinance"],
-      image: "/images/InvestEzy.jpg",
+      image: "https://raw.githubusercontent.com/8967shruti/Portfolio/refs/heads/main/public/images/Investezy.jpg",
       liveUrl: "https://investezy.vercel.app/",
       category: "FinTech",
       status: "Live",
