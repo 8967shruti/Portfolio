@@ -14,6 +14,7 @@ export default function Projects() {
       category: "FinTech",
       status: "Live",
     },
+    
     {
       id: 2,
       title: "VidhikGuru",
